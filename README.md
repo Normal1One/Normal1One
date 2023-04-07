@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **something awesome!**
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **React and Express.JS**
 
