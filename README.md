@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **something awesome!**
 
-- 🌱 I’m currently learning **[Remix](https://remix.run/)**
+- 🌱 I’m currently learning **[Astro](https://astro.build/)**
 
 - 💬 Ask me about anything related to **python/typescript/react**
 
