@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **something awesome!**
 
-- 🌱 I’m currently learning **[Astro](https://astro.build/)**
+- 🌱 I’m currently learning **[RedwoodJS](https://redwoodjs.com/)**
 
 - 💬 Ask me about anything related to **python/typescript/react**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nikita-lavrov-020801280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-lavrov-020801280" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikita-lavrov-a89623307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-lavrov-020801280" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
